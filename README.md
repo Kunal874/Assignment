@@ -1,0 +1,3 @@
+# AI-powered Educational Companion App
+
+## Setup Instructions...
